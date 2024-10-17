@@ -1,5 +1,0 @@
-0: bart
-1: homer
-2: lisa
-3: maggie
-4: marge
